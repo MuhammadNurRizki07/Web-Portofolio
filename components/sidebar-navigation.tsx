@@ -62,7 +62,7 @@ export function SidebarNavigation() {
             <div className="relative w-24 h-32 mb-3 group">
               <div className="absolute inset-0 bg-gradient-to-r from-primary to-blue-600 rounded-full animate-pulse opacity-20 group-hover:opacity-30 transition-opacity"></div>
               <Image
-                src="/Riski.jpeg"
+                src="/-"
                 alt="Muhammad Nur Rizki"
                 fill
                 className="rounded-2xl object-contain bg-white border-4 border-primary/20 shadow-xl group-hover:scale-105 transition-transform duration-300"
