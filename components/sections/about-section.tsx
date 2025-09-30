@@ -45,11 +45,11 @@ export function AboutSection() {
                     <div className="text-xs sm:text-sm text-muted-foreground">Tahun Pengalaman</div>
                   </div>
                   <div className="text-center p-3 sm:p-4 bg-secondary/20 rounded-lg">
-                    <div className="text-xl sm:text-2xl font-bold text-primary">10+</div>
+                    <div className="text-xl sm:text-2xl font-bold text-primary">7+</div>
                     <div className="text-xs sm:text-sm text-muted-foreground">Proyek Selesai</div>
                   </div>
                   <div className="text-center p-3 sm:p-4 bg-accent/20 rounded-lg">
-                    <div className="text-xl sm:text-2xl font-bold text-primary">5+</div>
+                    <div className="text-xl sm:text-2xl font-bold text-primary">10+</div>
                     <div className="text-xs sm:text-sm text-muted-foreground">Sertifikat</div>
                   </div>
                 </div>
