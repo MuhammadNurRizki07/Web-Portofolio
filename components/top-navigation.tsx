@@ -55,7 +55,7 @@ export function TopNavigation() {
           <div className="flex items-center space-x-3">
             <div className="relative w-12 h-12">
               <Image
-                src="/1.jpg"
+                src="/Riski.jpeg"
                 alt="Muhammad Nur Rizki"
                 fill
                 className="rounded-full object-cover border-2 border-primary/20"
