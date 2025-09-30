@@ -14,7 +14,7 @@ export function AboutSection() {
               <div className="order-2 lg:order-1">
                 <div className="w-64 h-80 sm:w-72 sm:h-96 md:w-80 md:h-[26rem] mx-auto relative overflow-hidden rounded-2xl shadow-2xl hover-lift">
                   <img
-                    src="/1.jpg"
+                    src="/Riski.jpeg"
                     alt="Muhammad Nur Rizki - Foto Profil"
                     className="w-full h-full object-contain bg-white"
                   />
