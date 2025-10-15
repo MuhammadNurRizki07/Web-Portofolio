@@ -14,7 +14,7 @@ export function CertificatesSection() {
       title: "Sertifikat RevoU Coding Camp Software Engineering",
       issuer: "Sertifikat RevoU Coding Camp",
       year: "2025",
-      image: "/E_Sertifikat RevoU Muhammad Nur Rizki",
+      image: "/E_Sertifikat RevoU Muhammad Nur Rizki.pdf",
     },
     {
       title: "Sertifikat Bawaslu Kota Cirebon",
@@ -56,7 +56,7 @@ export function CertificatesSection() {
       title: "Sertifikat Matrikulasi Al-Islam & Kemuhammadiiyahan",
       issuer: "Universitas Muhammdiyah Cirebon",
       year: "2022",
-      image: "/Matrikulasi1.jpeg",
+      image: "/Matrikulasi3.jpeg",
     },
     {
       title: "Sertifikat Pesantren",
