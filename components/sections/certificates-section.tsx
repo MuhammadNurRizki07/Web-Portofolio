@@ -11,6 +11,12 @@ export function CertificatesSection() {
 
   const certificates = [
     {
+      title: "Sertifikat RevoU Coding Camp Software Engineering",
+      issuer: "Sertifikat RevoU Coding Camp",
+      year: "2025",
+      image: "/E_Sertifikat RevoU Muhammad Nur Rizki",
+    },
+    {
       title: "Sertifikat Bawaslu Kota Cirebon",
       issuer: "Bawaslu",
       year: "2025",
